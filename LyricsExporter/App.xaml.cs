@@ -20,9 +20,7 @@ namespace LyricsExporter
                 {
                     // MP3ファイルの読み込み
                     var tfile = TagLib.File.Create(e.Args[0]);
-
                     File.WriteAllText(AppDomain.CurrentDomain.SetupInformation.ApplicationBase + "get_lyrics.txt", tfile.Tag.Lyrics);
-                    //StreamWriter stw = new StreamWriter(@"C:\xxxx\Test.txt", false, Encoding.UTF8);
                 }
                 catch
                 {
