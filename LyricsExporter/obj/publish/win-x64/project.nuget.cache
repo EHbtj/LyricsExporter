@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "uZd2YHF2/fc=",
+  "success": true,
+  "projectFilePath": "D:\\Dropbox\\Development\\Visual Studio\\Projects\\LyricsExporter\\LyricsExporter\\LyricsExporter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ehbtj\\.nuget\\packages\\costura.fody\\6.2.0\\costura.fody.6.2.0.nupkg.sha512",
+    "C:\\Users\\ehbtj\\.nuget\\packages\\fody\\6.9.3\\fody.6.9.3.nupkg.sha512",
+    "C:\\Users\\ehbtj\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.9\\microsoft.net.illink.tasks.10.0.9.nupkg.sha512",
+    "C:\\Users\\ehbtj\\.nuget\\packages\\taglibsharp\\2.3.0\\taglibsharp.2.3.0.nupkg.sha512",
+    "C:\\Users\\ehbtj\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\10.0.9\\microsoft.netcore.app.runtime.win-x64.10.0.9.nupkg.sha512",
+    "C:\\Users\\ehbtj\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\10.0.9\\microsoft.windowsdesktop.app.runtime.win-x64.10.0.9.nupkg.sha512",
+    "C:\\Users\\ehbtj\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\10.0.9\\microsoft.aspnetcore.app.runtime.win-x64.10.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

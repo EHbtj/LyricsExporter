@@ -1,0 +1,2 @@
+D:\Dropbox\Development\Visual Studio\Projects\LyricsExporter\LyricsExporter\bin\Release\net10.0-windows7.0\publish\win-x64\LyricsExporter.pdb
+D:\Dropbox\Development\Visual Studio\Projects\LyricsExporter\LyricsExporter\bin\Release\net10.0-windows7.0\publish\win-x64\LyricsExporter.exe

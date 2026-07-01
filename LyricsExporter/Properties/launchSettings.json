@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LyricsExporter": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\ehbtj\\Desktop\\あの日、あの世界で.mp3\""
+    }
+  }
+}

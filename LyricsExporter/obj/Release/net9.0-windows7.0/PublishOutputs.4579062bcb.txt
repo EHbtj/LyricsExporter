@@ -1,0 +1,6 @@
+D:\Dropbox\Development\Visual Studio\Projects\LyricsExporter\LyricsExporter\bin\Release\net9.0-windows7.0\publish\LyricsExporter.exe
+D:\Dropbox\Development\Visual Studio\Projects\LyricsExporter\LyricsExporter\bin\Release\net9.0-windows7.0\publish\LyricsExporter.dll
+D:\Dropbox\Development\Visual Studio\Projects\LyricsExporter\LyricsExporter\bin\Release\net9.0-windows7.0\publish\LyricsExporter.runtimeconfig.json
+D:\Dropbox\Development\Visual Studio\Projects\LyricsExporter\LyricsExporter\bin\Release\net9.0-windows7.0\publish\LyricsExporter.pdb
+D:\Dropbox\Development\Visual Studio\Projects\LyricsExporter\LyricsExporter\bin\Release\net9.0-windows7.0\publish\TagLibSharp.dll
+D:\Dropbox\Development\Visual Studio\Projects\LyricsExporter\LyricsExporter\bin\Release\net9.0-windows7.0\publish\LyricsExporter.deps.json
